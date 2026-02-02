@@ -44,3 +44,18 @@ We provide a new dataset specifically designed for challenging motion scenarios 
   └── test/
       ├── JPEGImages/
       └── Annotations/
+
+
+
+
+## 🛡️ License
+
+This project is released under the **MIT License** for the code and **CC BY-NC 4.0** for the dataset.
+
+* **Code**: The source code of this project is released under the [MIT License](LICENSE).
+* **Dataset**: The [Your Dataset Name] dataset is used for academic research only and is subject to the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+> **Notice**: No commericial purpose for datasets.
