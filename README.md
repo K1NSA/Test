@@ -24,7 +24,7 @@
   <img src="assets/architecture.png" width="90%">
 </p>
 
-*Overview of our proposed architecture. The **xx** module dynamically aligns  features to handle complex motion in VCOD.*
+*Overview of our proposed architecture. The **xx** module dynamically aligns  features to handle complex motion in UCOD.*
 
 ---
 
