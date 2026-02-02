@@ -57,3 +57,16 @@ This project is released under the **MIT License** for the code and **CC BY-NC 4
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 > **Notice**: No commericial purpose for datasets.
+
+
+## ✒️ Citation
+
+If you find our code or dataset useful for your research, please consider citing our paper:
+
+```bibtex
+@article{yourname2026concept,
+  title={High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks},
+  author={Lastname, Firstname and Lastname, Firstname},
+  journal={arXiv preprint arXiv:2601.xxxxx},
+  year={2026}
+}
