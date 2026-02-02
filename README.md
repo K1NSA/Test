@@ -45,9 +45,7 @@ We provide a new dataset specifically designed for challenging motion scenarios 
       ├── JPEGImages/
       └── Annotations/
 
-
-
-
+```
 ## 🛡️ License
 
 This project is released under the **MIT License** for the code and **CC BY-NC 4.0** for the dataset.
