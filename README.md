@@ -29,8 +29,6 @@
 
 ---
 
-## 📂 Dataset: [GBU-UCOD]
-We provide a new dataset specifically designed for challenging motion scenarios in UCOD.
 ## 📂 Dataset
 
 The **[Dataset Name]** dataset is hosted on Baidu Netdisk. Access to the dataset is granted upon request for academic research purposes only.
