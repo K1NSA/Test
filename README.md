@@ -1,4 +1,4 @@
-# [Paper Name: High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks]
+# [High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks]
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](your_link)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg)](your_link)
@@ -14,7 +14,7 @@
 ---
 
 ## 💡 Abstract
-> **The core challenge in** mechanism to... (这里用 1-2 句话简述你的核心创新点).
+> **The core challenge in** mechanism to... (这里用 1-2 句话简述我们的的核心创新点).
 
 ---
 
@@ -24,12 +24,12 @@
   <img src="assets/architecture.png" width="90%">
 </p>
 
-*Overview of our proposed architecture. The **xx** module dynamically aligns  features to handle complex motion in UCOD.*
+*Overview of our proposed architecture. The **xx** module xxxxx in UCOD.*
 
 ---
 
 ## 📂 Dataset: [GBU-UCOD]
-We provide a new/refined dataset specifically designed for challenging motion scenarios in UCOD.
+We provide a new dataset specifically designed for challenging motion scenarios in UCOD.
 
 ### 📥 Download
 - [Google Drive] | [Baidu Wangpan (Code: xxxx)] | [Hugging Face]
