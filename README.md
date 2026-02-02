@@ -31,9 +31,27 @@
 
 ## 📂 Dataset: [GBU-UCOD]
 We provide a new dataset specifically designed for challenging motion scenarios in UCOD.
+## 📂 Dataset
 
-### 📥 Download
-- [Google Drive] | [Baidu Wangpan (Code: xxxx)] | [Hugging Face]
+The **[Dataset Name]** dataset is hosted on Baidu Netdisk. Access to the dataset is granted upon request for academic research purposes only.
+
+### 📥 How to Access
+1. **Download the Data**: Download the encrypted dataset file from Baidu Netdisk.
+   * **Link**: [Baidu Pan Link Here]
+   * **Password**: [提取码, e.g., abcd]
+   *(Note: The zip file is protected by a password.)*
+
+2. **Sign the Agreement**:
+   * Download the [Data Use Agreement (PDF)](./assets/Data_Use_Agreement.pdf).
+   * Fill in your information. **A signature from your Principal Investigator (PI) is required.**
+
+3. **Request Password**:
+   * Send the signed agreement (scanned PDF) to **[your_email@example.com]**.
+   * Please use the email subject: **"Application for [Dataset Name] - [Your Institution]"**.
+
+4. **Get Access**:
+   * We will verify your request and reply with the **unzip password** within 1-2 working days.
+
 
 ### 🏗️ Structure
 ```text
