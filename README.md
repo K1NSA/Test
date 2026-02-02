@@ -1,4 +1,4 @@
-# [Paper Name: e.g., Concept-Guided Feature Alignment for Video Camouflaged Object Detection]
+# [Paper Name: High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks]
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](your_link)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg)](your_link)
