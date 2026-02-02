@@ -3,7 +3,8 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](your_link)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg)](your_link)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](your_link)
-%[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 
 ---
 
