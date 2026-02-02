@@ -8,13 +8,13 @@
 ---
 
 ## 📣 News
-* **[2026-03]** Our paper has been accepted by **ECCV 2026**! 🚀
+* **[2026-04]** Our paper has been accepted by ! 🚀
 * **[2026-02]** Code and Dataset labels are released.
 
 ---
 
 ## 💡 Abstract
-> **The core challenge in VCOD lies in the motion-induced feature instability.** Current methods often struggle when camouflaged objects exhibit complex or irregular movements. We propose a novel **Concept Embedding** mechanism to... (这里用 1-2 句话简述你的核心创新点).
+> **The core challenge in** mechanism to... (这里用 1-2 句话简述你的核心创新点).
 
 ---
 
@@ -24,12 +24,12 @@
   <img src="assets/architecture.png" width="90%">
 </p>
 
-*Overview of our proposed architecture. The **Concept Embedding** module dynamically aligns temporal features to handle complex motion in VCOD.*
+*Overview of our proposed architecture. The **xx** module dynamically aligns  features to handle complex motion in VCOD.*
 
 ---
 
-## 📂 Dataset: [Dataset Name]
-We provide a new/refined dataset specifically designed for challenging motion scenarios in VCOD.
+## 📂 Dataset: [GBU-UCOD]
+We provide a new/refined dataset specifically designed for challenging motion scenarios in UCOD.
 
 ### 📥 Download
 - [Google Drive] | [Baidu Wangpan (Code: xxxx)] | [Hugging Face]
