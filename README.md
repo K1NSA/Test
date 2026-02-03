@@ -12,11 +12,14 @@
 ---
 
 ## 💡 Abstract
-> 
-In this paper, we propose DeepTopo-Net, a novel framework that integrates topology-aware modeling with frequency-decoupled perception. To address phys
+> In this paper, we propose DeepTopo-Net, a novel framework that integrates topology-aware modeling with frequency-decoupled perception. To address phys
 ical degradation, we design the Water-Conditioned Adaptive Perceptor (WCAP), which employs Riemannian metric tensors to dynamically deform convolutional sampling fields. Furthermore, the Abyssal-Topology Refinement Module (ATRM) is developed to maintain the structural connectivity of spindly targets through skeletal priors. Specifically, we first introduce GBU-UCOD, the first high
 resolution (2K) benchmark tailored for marine vertical zonation, filling the data gap for hadal and abyssal zones. Extensive experiments on MAS3K, RMAS, and our proposed GBU-UCOD datasetsdemonstrate that DeepTopo-Net achieves state-of-the-art performance, particularly in preserving the morphological integrity of complex underwater patterns.
+
 ---
+
+
+
 
 ## 🖼️ Method Overview
 
@@ -40,15 +43,16 @@ The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk. Access to the dataset is 
    *(Note: The zip file is protected by a password.)*
 
 2. **Sign the Agreement**:
-   * Download the [Data Use Agreement (PDF)](./assets/Data_Use_Agreement.pdf).
+
+   * Download the [End User License Agreement for GBU UCOD Dataset.pdf](https://github.com/user-attachments/files/25032343/End.User.License.Agreement.for.GBU.UCOD.Dataset.pdf).
    * Fill in your information. **A signature from your Principal Investigator (PI) is required.**
 
 3. **Request Password**:
    * Send the signed agreement (scanned PDF) to **[your_email@example.com]**.
-   * Please use the email subject: **"Application for [Dataset Name] - [Your Institution]"**.
+   * Please use the email subject: **"Application for [GBU UCOD] - [Your Institution]"**.
 
 4. **Get Access**:
-   * We will verify your request and reply with the **unzip password** within 1-2 working days.
+   * We will verify your request and reply with the **unzip password** within 3-5 working days.
 
 
 ### 🏗️ Structure
