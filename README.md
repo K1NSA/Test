@@ -30,12 +30,12 @@
 
 ## 📂 Dataset
 
-The **[Dataset Name]** dataset is hosted on Baidu Netdisk. Access to the dataset is granted upon request for academic research purposes only.
+The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk. Access to the dataset is granted upon request for academic research purposes only.
 
 ### 📥 How to Access
 1. **Download the Data**: Download the encrypted dataset file from Baidu Netdisk.
-   * **Link**: [Baidu Pan Link Here]
-   * **Password**: [提取码, e.g., abcd]
+   * **Link**: [https://pan.baidu.com/s/1scU8JEguoFBvQ7-eoYAavQ]
+   * **Password**: [WWJX]
    *(Note: The zip file is protected by a password.)*
 
 2. **Sign the Agreement**:
