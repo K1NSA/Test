@@ -1,4 +1,3 @@
-<img width="1850" height="1088" alt="image" src="https://github.com/user-attachments/assets/c0ca16a4-12ee-477c-ad2b-a5184b649fa7" /># [High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks]
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](your_link)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg)](your_link)
