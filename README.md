@@ -7,14 +7,15 @@
 ---
 
 ## 📣 News
-* **[2026-04]** Our paper has been accepted by ! 🚀
 * **[2026-02]** Code and Dataset labels are released.
 
 ---
 
 ## 💡 Abstract
 > **The core challenge in** mechanism to... (这里用 1-2 句话简述我们的的核心创新点).
-
+In this paper, we propose DeepTopo-Net, a novel framework that integrates topology-aware modeling with frequency-decoupled perception. To address phys
+ical degradation, we design the Water-Conditioned Adaptive Perceptor (WCAP), which employs Riemannian metric tensors to dynamically deform convolutional sampling fields. Furthermore, the Abyssal-Topology Refinement Module (ATRM) is developed to maintain the structural connectivity of spindly targets through skeletal priors. Specifically, we first introduce GBU-UCOD, the first high
+resolution (2K) benchmark tailored for marine vertical zonation, filling the data gap for hadal and abyssal zones. Extensive experiments on MAS3K, RMAS, and our proposed GBU-UCOD datasetsdemonstrate that DeepTopo-Net achieves state-of-the-art performance, particularly in preserving the morphological integrity of complex underwater patterns.
 ---
 
 ## 🖼️ Method Overview
